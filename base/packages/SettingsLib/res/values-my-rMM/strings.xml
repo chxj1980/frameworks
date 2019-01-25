@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_fail_to_scan">"ကြန္ယက္မ်ားကို စကင္ဖတ္၍မရပါ"</string>
+<string name="wifi_security_none">တေယာက္မွ်</string>
+<string name="wifi_remembered">"သိမ္းထားျပီး"</string>
+<string name="wifi_disabled_generic">ပိတ္ထားျပီး</string>
+<string name="wifi_disabled_network_failure">"IP ခ်ိတ္ဆက္ျခင္း က်ရွံဳး"</string>
+<string name="wifi_disabled_wifi_failure">"WiFi ခ်ိတ္ဆက္ျခင္း က်ရွံဳး"</string>
+<string name="wifi_disabled_password_failure">"တရားဝင္အေထာက္အထားအတည္ျပဳခ်က္ဆိုင္ရာျပႆနာ"</string>
+<string name="wifi_not_in_range">"သတ္မွတ္အတိုင္းအတာအတြင္းမ႐ွိပါ"</string>
+<string name="wifi_no_internet">"အင္တာနက္ လက္ခံရွာမေတြ ့, ေအာ္တို ျပန္မခ်ိတ္ဆက္နိုင္."</string>
+<string name="saved_network">"ျဖင့္ သိမ္းျပီး <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="connected_via_wfa">"ခ်ိတ္ဆက္ျပီး မွ Wi\u2011Fi အကူ"</string>
+<string name="connected_via_passpoint">"ခ်ိတ္ဆက္ျပီး မွ %1$s"</string>
+<string name="available_via_passpoint">"ေထာက္ပံ့ မွ %1$s"</string>
+<string name="wifi_connected_no_internet">"ခ်ိတ္ဆက္ျပီး, အင္တာနက္ မရွိ"</string>
+<string name="bluetooth_disconnected">"ဆက္သြယမႈျပတ္ေတာက္သြားသည္"</string>
+<string name="bluetooth_disconnecting">ဆက္သြယ္မႈျပတ္ေတာက္ေနသည္</string>
+<string name="bluetooth_connecting">"ဆက္သြယ္ေနသည္\u2026"</string>
+<string name="bluetooth_connected">"ခ်ိတ္ဆက္ျပီး"</string>
+<string name="bluetooth_pairing">"တွဲချိတ်ပါ"</string>
+<string name="bluetooth_connected_no_headset">"ခ်ိတ္ဆက္ျပီး (ဖုန္းမဟုတ္)"</string>
+<string name="bluetooth_connected_no_a2dp">"ခ်ိတ္ဆက္ျပီး (မီဒီယာမဟုတ္)"</string>
+<string name="bluetooth_connected_no_map">"ခ်ိတ္ဆက္ျပီး (မက္ေဆ့ခ်္လက္ခံျခင္းမရွိ)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"ခ်ိတ္ဆက္ျပီး (ဖုန္း (သို႔) မီဒီယာမဟုတ္)"</string>
+<string name="bluetooth_profile_a2dp">"မီဒီယာ"</string>
+<string name="bluetooth_profile_headset">"ဖုန္းအသံ"</string>
+<string name="bluetooth_profile_opp">"ဖိုင္ ေျပာင္းေရႊ႕ျခင္း"</string>
+<string name="bluetooth_profile_hid">"အင္ပြတ္ ကိရိယာမ်ား"</string>
+<string name="bluetooth_profile_pan">"အင္တာနက္ဝင္ေရာက္ျခင္း"</string>
+<string name="bluetooth_profile_pbap">"အဆက္အသြယ္ မွ်ေဝမႈ"</string>
+<string name="bluetooth_profile_pbap_summary">"အဆက္အသြယ္ မွ်ေဝမႈအတြက္ အသံုးျပဳပါ"</string>
+<string name="bluetooth_profile_pan_nap">"အင္တာနက္ခ်ိတ္ဆက္မႈေဝမွ်ျခင္း"</string>
+<string name="bluetooth_profile_map">"မက္ေဆ့ခ်္ လက္ခံသည္"</string>
+<string name="bluetooth_profile_sap">"SIM ဖြင့္ပါ "</string>
+<string name="bluetooth_a2dp_profile_summary_connected">"မီဒီယာအသံဖိုင္သို႔ ခ်ိတ္ဆက္ျပီး"</string>
+<string name="bluetooth_headset_profile_summary_connected">"ဖုန္းအသံဖုိင္သို႔ ခ်ိတ္ဆက္ျပီး"</string>
+<string name="bluetooth_opp_profile_summary_connected">"ဖုိင္ေပးပို႔မႈဆာဗာသို႔ ခ်ိတ္ဆက္ျပီး"</string>
+<string name="bluetooth_map_profile_summary_connected">"ေျမပံုသို့ ခ်ိတ္ဆက္ပါ"</string>
+<string name="bluetooth_sap_profile_summary_connected">"ခ်ိတ္ဆက္ျပီး သို ့ SAP"</string>
+<string name="bluetooth_opp_profile_summary_not_connected">"ဖိုင္ေပးပို႔မႈဆာဗာႏွင့္ မခ်ိတ္ရေသးပါ"</string>
+<string name="bluetooth_hid_profile_summary_connected">"အင္ပြတ္ ကိရိယာမ်ား သုိ႔ခ်ိတ္ဆက္ျပီး"</string>
+<string name="bluetooth_pan_user_profile_summary_connected">"အင္တာနက္ဝင္ေရာက္ရန္ ကိရိယာသို႔ ခ်ိတ္ဆက္ျပီး"</string>
+<string name="bluetooth_pan_nap_profile_summary_connected">"အနီးအနားအင္တာနက္ခ်ိတ္ဆက္မႈအား ကိရိယာႏွင့္ ေဝမွ်ေနသည္"</string>
+<string name="bluetooth_pan_profile_summary_use_for">"အင္တာနက္ဝင္ေရာက္ခြင့္ကို အသံုးျပဳပါ"</string>
+<string name="bluetooth_map_profile_summary_use_for">"ေျမပံုအတြက္ သံုးပါ"</string>
+<string name="bluetooth_sap_profile_summary_use_for">"SIM ဖြင့္ရန္ သံုးပါ"</string>
+<string name="bluetooth_a2dp_profile_summary_use_for">"မီဒီယာအသံဖုိင္အတြက္ သံုးမည္"</string>
+<string name="bluetooth_headset_profile_summary_use_for">"ဖုန္းအသံဖုိင္အတြက္ သံုးမည္"</string>
+<string name="bluetooth_opp_profile_summary_use_for">"ဖုိင္ေပးပို႔ရန္ သံုးမည္"</string>
+<string name="bluetooth_hid_profile_summary_use_for">"အင္ပြတ္ အတြက္သံုးမည္"</string>
+<string name="bluetooth_pairing_accept">"တြဲပါ"</string>
+<string name="bluetooth_pairing_accept_all_caps">"တြဲပါ"</string>
+<string name="bluetooth_pairing_decline">"မလုပ္ပါ"</string>
+<string name="bluetooth_pairing_will_share_phonebook">"ခ်ိတ္ဆက္သည့္အခါ တြဲျခင္းသည္ သင့္အဆက္အသြယ္မ်ားႏွင့္ ေခၚဆုိမႈမွတ္တမ္းကုိ သံုးခြင့္ေပးပါသည္။"</string>
+<string name="bluetooth_pairing_error_message">"<xliff:g id="device_name">%1$s</xliff:g> ႏွင့္ တြဲဖက္ရာတြင္ ျပႆနာ႐ွိသည္။"</string>
+<string name="bluetooth_pairing_pin_error_message">"PIN သို႔မဟုတ္ ကန္႔သတ္နယ္ေျမဝင္ခြင့္ကီး မမွန္ကန္သျဖင့္ <xliff:g id="device_name">%1$s</xliff:g>င့္ တြဲဖက္ရာတြင္ ျပႆနာ႐ွိသည္။"</string>
+<string name="bluetooth_pairing_device_down_error_message">"<xliff:g id="device_name">%1$s</xliff:g>င့္မဆက္သြယ္ႏိုင္ပါ။"</string>
+<string name="bluetooth_pairing_rejected_error_message">"တြဲဖက္ျခင္းကို <xliff:g id="device_name">%1$s</xliff:g> မွ ျငင္းပယ္။"</string>
+<string name="wifi_secured_first_item">"<xliff:g>%1$s</xliff:g>ျဖင့္ ေဘးကင္းလံုျခံဳပါ"</string>
+<string name="wifi_secured_second_item">"၊ <xliff:g>%1$s</xliff:g> ျဖင့္အတူ လံုျခံဳစိတ္ခ်ရသည္"</string>
+<string name="wifi_wps_available_first_item">"[WPS]ကာကြယ္ထားေသာ ကြန္ယက္ရ႐ွိႏိုင္"</string>
+<string name="wifi_wps_available_second_item">"\u0020([WPS]ကာကြယ္ထားေသာ ကြန္ယက္ရ႐ွိႏိုင္)"</string>
+</resources>

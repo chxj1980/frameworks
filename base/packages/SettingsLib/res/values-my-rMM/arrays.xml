@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="wifi_status">
+<item></item>
+<item>"စကင္ဖတ္ေနသည္။္\u2026"</item>
+<item>"ဆက္သြယ္ေနသည္\u2026"</item>
+<item>"မွန္ကန္ေၾကာင္းစစ္ေဆးဆဲ \u2026"</item>
+<item>"IP လိပ္စာရယူေနဆဲ\u2026"</item>
+<item>"ခ်ိတ္ဆက္ျပီး"</item>
+<item>"ခဏရပ္ဆိုင္းထားျပီး"</item>
+<item>ဆက္သြယ္မႈျပတ္ေတာက္ေနသည္</item>
+<item>"ဆက္သြယမႈျပတ္ေတာက္သြားသည္"</item>
+<item>"မေအာင္ျမင္ပါ"</item>
+<item>"ဘေလာ့လုပ္ၿပီးပါၿပီ"</item>
+<item>"မေကာင္းေသာ ခ်ိတ္ဆက္မႈကုိ ယာယီ ေရွာင္ၾကဥ္ျခင္း"</item>
+</string-array>
+<string-array name="wifi_status_with_ssid">
+<item></item>
+<item>"စကင္ဖတ္ေနသည္။္\u2026"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g>သို႔ ခ်ိတ္ဆက္ဆဲ\u2026"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> မွန္ကန္ေၾကာင္းစစ္ေဆးဆဲ\u2026"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> မွ IP လိပ္စာရယူေနဆဲ\u2026"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> သို႔ ခ်ိတ္ဆက္ျပီး"</item>
+<item>"ခဏရပ္ဆိုင္းထားျပီး"</item>
+<item>"<xliff:g id="network_name">%1$s</xliff:g> မွ ျဖဳတ္ေနဆဲ\u2026"</item>
+<item>"ဆက္သြယမႈျပတ္ေတာက္သြားသည္"</item>
+<item>"မေအာင္ျမင္ပါ"</item>
+<item>"ဘေလာ့လုပ္ၿပီးပါၿပီ"</item>
+<item>"မေကာင္းေသာ ခ်ိတ္ဆက္မႈကုိ ယာယီ ေရွာင္ၾကဥ္ျခင္း"</item>
+</string-array>
+</resources>

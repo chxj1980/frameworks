@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="bugreport_finished_title">"တျခားအစီရင္ခံစာကို ဖမ္းထားျပီး"</string>
+<string name="bugreport_finished_text" product="watch">"သင့္ အမွားအစီရင္ခံစာကုိ မွ်ေဝရန္ ဘယ္သုိ႕ပြတ္ဆြဲပါ"</string>
+<string name="bugreport_finished_text" product="default">"သင္၏တျခားအစီရင္ခံစာ ေ၀မွ်ရန္ ထိပါ"</string>
+<string name="bugreport_confirm">"စစ္စတမ္ ၏ေလာ့ဖိုင္မ်ားမွ ေဒတာပါသည့္ တျခားအစီရင္ခံစာမ်ား, ကိုယ္ေရးကိုယ္တာအခ်က္ပါသည္. ေအပီပီပါသည့္ တျခားအစီရင္ခံစာမ်ားသာ ရွယ္ယာပါ."</string>
+<string name="bugreport_confirm_repeat">"ေနာက္တစ္ၾကိမ္တြင္ ဤမက္ေဆ့ခ်္ကို ေဖၚျပပါ"</string>
+<string name="bugreport_storage_title">"အမွား အစီရင္ခံစာမ်ား"</string>
+</resources>
